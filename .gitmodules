@@ -7,3 +7,6 @@
 [submodule "dataModel.Aquaculture"]
 	path = dataModel.Aquaculture
 	url = https://github.com/smart-data-models/dataModel.Aquaculture.git
+[submodule "dataModel.Forestry"]
+	path = dataModel.Forestry
+	url = https://github.com/smart-data-models/dataModel.Forestry.git

@@ -1,6 +1,3 @@
-[submodule "dataModel.Agrifood"]
-	path = dataModel.Agrifood
-	url = https://github.com/smart-data-models/dataModel.Agrifood.git
 [submodule "dataModel.Aquaculture"]
 	path = dataModel.Aquaculture
 	url = https://github.com/smart-data-models/dataModel.Aquaculture.git

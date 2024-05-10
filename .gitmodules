@@ -7,3 +7,6 @@
 [submodule "dataModel.Forestry"]
 	path = dataModel.Forestry
 	url = https://github.com/smart-data-models/dataModel.Forestry.git
+[submodule "dataModel.Weather"]
+	path = dataModel.Weather
+	url = https://github.com/smart-data-models/dataModel.Weather.git
